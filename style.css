@@ -1,0 +1,48 @@
+.firstSesson{
+    height: 95vh;
+    background: url('./assets/banner.png') no-repeat center;
+    background-color: rgb(100, 0, 194);
+    object-fit: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-attachment: fixed;
+    clip-path: polygon(0 0, 100% 0, 100% 95%, 0 100%);
+}
+.logoImg{
+    width: 190px;
+}
+.btn{
+    font-weight: 700;
+}
+p.firstTxt{
+    color: #ffffff;
+    font-weight: 600;
+    font-size: 2rem;
+    line-height: 2.2rem;
+}
+.firstContent{
+    margin-top: 12vh;
+    align-items: center;
+}
+.formulario{
+    background-color: #ffffff;
+    padding: 4rem;
+    border-radius: 10px;
+}
+.btnForm{
+    width: 100%;
+    background-color: blueviolet;
+    color: #ffffff;
+}
+.btn:hover{
+    color: rgb(203, 162, 241);
+}
+.imgMulher{
+    margin-left: -50px;
+    margin-top: -75px;
+    width: 500px;
+    height: 500px;
+}
+
